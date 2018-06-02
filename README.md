@@ -13,5 +13,8 @@ git ini bertujuan untuk membantu kalian yg bingung bagaimana memakai <b>[line-py
 2. Silahkan ubah User-agen di <b>LINEPY/config.py</b> <b>(</b>default UA : IOS\t7.14.0\tiPhone OS\t10.12.0<b>)</b><br>
 3. ID : andyihsan
 ## Author
-Fadhiil Rachman / [@fadhiilrachman](https://github.com/fadhiilrachman/line-py)
+Fadhiil Rachman / [@fadhiilrachman](https://github.com/fadhiilrachman/line-py)<br><br>
+
+
+## ADA YG UPLOAD SCRIPT KW TAPI DI AKUIN MILIKNYA ITU ORANG YG SANGAT SAMPAH
 
