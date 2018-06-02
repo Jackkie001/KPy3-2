@@ -17,5 +17,7 @@ Fadhiil Rachman / [@fadhiilrachman](https://github.com/fadhiilrachman/line-py)<b
 
 
 ## MAKE SCRIPT KW DI UPLOAD TANPA CREDIT ASLI TRUS NGAKUIN MILIKNYA ITU ORANG YG SANGAT SAMPAH
+Masih suka nyomot script dari tempat KW? <br><br>
+
 1. [SAMPAH PERTAMA](https://github.com/armseke03/a2/blob/master/a.py)
 
